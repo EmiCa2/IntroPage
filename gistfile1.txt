@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1 {
+text-align: center;
+font-size: 60px;
+color: rgb(0, 0, 153);
+font-family: verdana;
+}
+
+body {
+  font-family: verdana;
+  background-color: rgb(204, 245, 255)
+}
+p {
+  text-align: center;
+  color:
+}
+.two {
+  text-align: left;
+  color: rgb(255, 128, 0);
+}
+</style>
+<h1>Food's one of your wishes? Try Dolphin Dishes!</h1><br><br><br>
+<br>
+<body> 
+  <p> Are you too tired to go out and eat out? <br> Don't want to go eat the school lunch either? <br> Then Dolphin Dishes is the thing for you! <p>
+    <br><br><br>
+  <p class = "two"> Dolphin Dishes is the answer to anyone who cannot go out of Whitney M Young High School but still want to eat out at places both nearby like McDonalds and Billy Goats or or further away like Pompei and Portillos<p><br>
+  <p class = "two">Sign up here to sign up!<p>
+</body>
+</html>
